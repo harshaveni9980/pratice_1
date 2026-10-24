@@ -2,5 +2,9 @@ print("king")
 print("sai")
 print("lion")
 print("Feature branch")
+<<<<<<< HEAD
 print("Cherry-pick practice")
 print("Hello from feature")
+=======
+print("hello from feature")
+>>>>>>> feature
